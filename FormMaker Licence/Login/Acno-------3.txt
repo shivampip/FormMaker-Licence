@@ -1,0 +1,3 @@
+Username		Shivangi
+Password		ggpass
+I accept terms and conditions		true

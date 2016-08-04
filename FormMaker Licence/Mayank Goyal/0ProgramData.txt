@@ -1,0 +1,1 @@
+@f@First Name@f@Last Name@f@Age@l@Acedmic Details@f@College@f@CGPA@c@I accept terms and conditions@b@Submit#Submit@b@Reset#Reset@b@Close#Exit

@@ -1,0 +1,6 @@
+First Name		Ram
+Last Name		Ji
+Age		100
+College		ds
+CGPA		dfs
+I accept terms and conditions		true

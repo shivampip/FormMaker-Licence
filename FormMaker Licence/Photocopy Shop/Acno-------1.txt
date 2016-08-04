@@ -1,0 +1,6 @@
+Coustomer name		Raja
+Date		3-2-2016
+No. of copy		62
+Total bil		124
+Paid		false
+Remaining		true

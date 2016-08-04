@@ -1,0 +1,6 @@
+Coustomer name		Naveen
+Date		2-1-2016
+No. of copy		46
+Total bil		92
+Paid		true
+Remaining		false

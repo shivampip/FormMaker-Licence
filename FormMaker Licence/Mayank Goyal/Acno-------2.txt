@@ -1,0 +1,6 @@
+First Name		Mayank
+Last Name		Goyal
+Age		19
+College		SGSITS
+CGPA		7.9
+I accept terms and conditions		true
